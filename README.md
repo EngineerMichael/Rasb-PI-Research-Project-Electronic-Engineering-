@@ -1,5 +1,5 @@
 # Rasb-PI-Research-Project-Electronic-Engineering-
-Work In Progress, More Details Reveal After Being Patent, NDA
+
 Creating a Raspberry Pi-based ultrasound sensor system to measure the height of bridges or gaps (such as for a vehicle’s clearance) involves the following steps:
 
 
