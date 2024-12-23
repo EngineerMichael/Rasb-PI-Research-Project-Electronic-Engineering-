@@ -242,6 +242,8 @@ Distance: 150.23 cm
 
 • Power Supply: Ensure your Raspberry Pi is properly powered, especially if using sensors and additional peripherals.
 
+GNU General Public License v3.0 
+
 
 
 This basic setup will allow you to measure the clearance height of bridges, which could be used for vehicle height monitoring or automated systems for detecting low clearance.
